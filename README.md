@@ -1,3 +1,5 @@
+## Bu depo bir çataldır ve ünlü ağ ve proxy debuggeri olan Wireshark'ın Github üzerindeki deposudur.
+
 General Information
 -------------------
 
